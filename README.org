@@ -1,0 +1,10 @@
+* defconfig
+
+A customizer for common lisp dynamic variables
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/szos/defconfig.git   |
+| commit  | {"messa  |
+| systems | defconfig |
+|---------+-------------------------------------------|
+
