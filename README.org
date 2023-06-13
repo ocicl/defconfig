@@ -4,7 +4,7 @@ A customizer for common lisp dynamic variables
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/szos/defconfig.git   |
-| commit  | {"messa  |
+| commit  | da7cf7b  |
 | systems | defconfig |
 |---------+-------------------------------------------|
 
